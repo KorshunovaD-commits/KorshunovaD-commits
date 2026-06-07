@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -32,9 +34,19 @@ Here are some ideas to get you started:
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
