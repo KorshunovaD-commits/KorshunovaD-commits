@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0905-sort-array-by-parity) |
+| [2363-merge-similar-items](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/2363-merge-similar-items) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
+| [2363-merge-similar-items](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/2363-merge-similar-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Here are some ideas to get you started:
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0905-sort-array-by-parity) |
+| [2363-merge-similar-items](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/2363-merge-similar-items) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +55,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
