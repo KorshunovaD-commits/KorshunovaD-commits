@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0905-sort-array-by-parity) |
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0905-sort-array-by-parity) |
