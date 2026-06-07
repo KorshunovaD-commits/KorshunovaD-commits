@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0268-missing-number](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/KorshunovaD-commits/KorshunovaD-commits/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
